@@ -1,0 +1,16 @@
+demand_level,scenario,forms_per_day,consultations_per_day,dispensing_staff,avg_wait_min,p95_wait_min,avg_consult_wait_min,pharmacist_utilisation_pct,dispenser_utilisation_pct,backlog_forms_at_close
+Median London pharmacy (2026),Current process,147,7.0,2,8.5,22.8,2.0,80,58,0
+Median London pharmacy (2026),A. Pre-assemble repeats,147,7.0,2,5.3,15.9,1.8,80,54,0
+Median London pharmacy (2026),B. Accuracy checking technician,147,7.0,2,8.2,19.9,1.6,49,74,0
+Median London pharmacy (2026),C. Extra peak-hour dispenser,147,7.0,2,8.1,21.9,2.1,80,45,0
+Median London pharmacy (2026),A + B combined,147,7.0,2,5.2,14.6,1.5,49,70,0
+Median pharmacy + 1 year growth,Current process,151,8.9,2,9.2,26.0,2.7,86,59,1
+Median pharmacy + 1 year growth,A. Pre-assemble repeats,151,8.9,2,5.6,18.0,2.5,86,55,1
+Median pharmacy + 1 year growth,B. Accuracy checking technician,151,8.9,2,8.6,21.6,2.3,54,75,0
+Median pharmacy + 1 year growth,C. Extra peak-hour dispenser,151,8.9,2,8.8,25.7,2.8,86,46,1
+Median pharmacy + 1 year growth,A + B combined,151,8.9,2,5.3,15.8,2.1,54,72,0
+Busy pharmacy (90th percentile),Current process,294,13.9,4,14.0,47.7,7.8,99,57,174
+Busy pharmacy (90th percentile),A. Pre-assemble repeats,294,13.9,4,6.6,28.1,5.2,99,54,195
+Busy pharmacy (90th percentile),B. Accuracy checking technician,294,13.9,4,9.5,27.6,5.4,93,73,10
+Busy pharmacy (90th percentile),C. Extra peak-hour dispenser,294,13.9,4,13.9,47.8,7.9,99,51,174
+Busy pharmacy (90th percentile),A + B combined,294,13.9,4,5.6,19.6,4.5,94,69,11

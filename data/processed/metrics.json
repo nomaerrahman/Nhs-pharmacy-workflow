@@ -1,0 +1,21 @@
+{
+  "period": "Jan 2025 - Jul 2026",
+  "london_pharmacies_jan_2025": 1714,
+  "london_pharmacies_jul_2026": 1716,
+  "london_items_ytd_growth_pct": 2.5,
+  "london_pharmacy_first_ytd_growth_pct": 20.5,
+  "london_nms_ytd_growth_pct": 51.1,
+  "london_contraception_ytd_growth_pct": 249.0,
+  "england_items_ytd_growth_pct": 2.8,
+  "england_pharmacy_first_ytd_growth_pct": 19.7,
+  "london_items_jul_2026": 14217006,
+  "london_eps_share_jul_2026_pct": 97.9,
+  "median_items_per_pharmacy_jul_2026": 7320,
+  "median_items_per_pharmacy_jul_2025": 6973,
+  "median_forms_per_pharmacy_jul_2026": 3829,
+  "median_pharmacy_first_per_pharmacy_jul_2026": 50,
+  "median_items_per_day_jul_2026": 282.0,
+  "p90_items_per_day_jul_2026": 563.0,
+  "median_clinical_services_per_pharmacy_jul_2026": 181,
+  "median_clinical_services_per_pharmacy_jul_2025": 142
+}
